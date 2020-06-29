@@ -1,7 +1,7 @@
 Shortest Substring
 ======
 
-Find the shortest substring that contains all of the characters within s
+Finding the shortest substring that contains all of the characters within s
 
 
 Solution described
